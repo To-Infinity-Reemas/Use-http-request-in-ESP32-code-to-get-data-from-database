@@ -56,5 +56,6 @@ void loop() {
 - The code then checks if the response is equal to "forward". If it is, it turns the LED on by setting the voltage on the LED pin to HIGH. Otherwise, it turns the LED off by setting the voltage to LOW.
 
 #### pic here 
+<img width="619" src=https://github.com/user-attachments/assets/d61ba918-defc-440d-9e25-e459c605ce92>
 
-<img width="519" alt="Screenshot 2024-07-27 221902" src="https://github.com/user-attachments/assets/5022244c-d4bb-4936-ab9e-e0060a2cc7c2">
+<img width="619" alt="Screenshot 2024-07-27 221902" src="https://github.com/user-attachments/assets/5022244c-d4bb-4936-ab9e-e0060a2cc7c2">
